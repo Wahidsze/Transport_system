@@ -1,0 +1,11 @@
+.App-header{
+  min-height: 300px;
+  background-color: #A9D5D4;
+}
+
+.homepage-title{
+  font-size: calc(10px + 4vmin) !important;
+  font-family: 'Inter';
+  font-weight: 600;
+  color:#112D31;
+}

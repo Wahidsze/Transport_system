@@ -1,0 +1,14 @@
+.btn-search{
+    background-color: #112D32 !important;
+    border:#112D32 !important;
+    color: white;
+    min-height: 100%;
+    width: 100%;
+    font-size: calc(3vmin);
+    font-family: 'Inter' !important;
+    font-weight: 600;
+}
+
+.btn-search:hover, .btn-search:active, .btn-search:visited{
+    background-color: #6E6659 !important;
+}

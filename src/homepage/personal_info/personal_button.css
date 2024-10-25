@@ -1,0 +1,12 @@
+.btn-primary{
+    background-color: #112D32 !important;
+    border:#112D32 !important;
+    font-size: calc(10px + 2vmin) !important;
+    font-family: 'Inter' !important;
+    font-weight: 600;
+    padding: 2vmin !important;
+}
+
+.btn-primary:hover, .btn-primary:active, .btn-primary:visited{
+    background-color: #6E6659 !important;
+}

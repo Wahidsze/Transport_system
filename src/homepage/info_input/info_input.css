@@ -1,0 +1,9 @@
+.form-control{
+    border-width: 1px !important;
+    border-color:black !important;
+}
+
+.departure-city{
+    border-top-right-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
+}
